@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game_for_fun", "game_for_fun\game_for_fun.csproj", "{549F2A50-AB69-499B-B7E7-653260E2F99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549F2A50-AB69-499B-B7E7-653260E2F99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549F2A50-AB69-499B-B7E7-653260E2F99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549F2A50-AB69-499B-B7E7-653260E2F99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549F2A50-AB69-499B-B7E7-653260E2F99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FE733B9-6438-436A-AA41-14D5AF7D0EA3}
+	EndGlobalSection
+EndGlobal
